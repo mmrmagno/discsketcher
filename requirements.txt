@@ -1,0 +1,6 @@
+discord.py
+python-dotenv
+transformers
+torch
+diffusers
+accelerate
